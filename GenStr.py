@@ -15,7 +15,7 @@ from pyrogram.errors import (
 API_TEXT = """Hi, {}. 🌚
 ✨This is Pyrogram's String Session Generator Bot. I will generate String Session of your Telegram Account.✨
 
-👉 By your beloved @VAMPBOT_OFFICIAL ♥️🔥
+👉 By your beloved @Kyu_btau ♥️🔥
 
 Now send your `API_ID` to Start Generating Session."""
 HASH_TEXT = "Now send your `API_HASH`.\n\nPress /cancel to Cancel Task."
@@ -124,7 +124,7 @@ async def genStr(_, msg: Message):
         return
     try:
         session_string = await client.export_session_string()
-        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@StringSessionGenerator_Bot](tg://openmessage?user_id=1882476556) \nA Bot By @D15H4NT0P \nThanks for using our bot 👉🌚")
+        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@StringGeneratorr_Bot](tg://openmessage?user_id=1882476556) \nA Bot By @MickeyxD \nThanks for using our bot 👉🌚")
         await client.disconnect()
         text = "String Session is Successfully Generated.\nClick on Below Button."
         reply_markup = InlineKeyboardMarkup(
@@ -159,10 +159,10 @@ Must Join Channel for Bot Updates !!
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('Developer', url='https://t.me/D15H4NT0P')
+                InlineKeyboardButton('Developer', url='https://t.me/MickeyxD')
             ],
             [
-                InlineKeyboardButton('Support', url='https://t.me/VAMPBOT_OFFICIAL'),
+                InlineKeyboardButton('Support', url='https://t.me/k'),
             ]
         ]
     )

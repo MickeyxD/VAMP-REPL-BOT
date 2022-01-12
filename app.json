@@ -1,7 +1,7 @@
 {
     "name": "TG-REPL-BOT",
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
-    "repository": "https://github.com/D15H4NT0P/VAMP-REPL-BOT",
+    "repository": "https://github.com/MickeyxD/REPLBOT",
     "logo": "https://telegra.ph/file/645d24b6cfc9b29404d84.jpg",
     "keywords": [
         "python",

@@ -1,9 +1,9 @@
-# VAMP REPL BOT🤔
+#  REPL BOT🤔
 
 Generate Pyrogram String Session Using this bot.
 
 ## Bot Link:
-<a href="https://t.me/ShasaString_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/StringGeneratorr_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -18,7 +18,7 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D15H4NT0P/STRINGGENERATOR/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MickeyxD/REPLBOT/tree/main)
 
 
 
